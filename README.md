@@ -1,2 +1,2 @@
 # study
-just for study
+just for java study !
