@@ -1,5 +1,5 @@
 classes
 maven-archiver
-target
+target/
 *.iml
 *.class
